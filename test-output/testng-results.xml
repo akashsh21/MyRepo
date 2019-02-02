@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Online shopping site Test Automation Test Suite" duration-ms="119037" started-at="2019-02-02T10:02:54Z" finished-at="2019-02-02T10:04:53Z">
+    <groups>
+    </groups>
+    <test name="Free CRM App Test Cases" duration-ms="119037" started-at="2019-02-02T10:02:54Z" finished-at="2019-02-02T10:04:53Z">
+      <class name="com.qatest.testcases.SignInPageTest">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.qatest.testcases.SignInPageTest@26653222]" name="startTest" is-config="true" duration-ms="20627" started-at="2019-02-02T10:04:27Z" finished-at="2019-02-02T10:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="verify_email_field_test()[pri:0, instance:com.qatest.testcases.SignInPageTest@26653222]" name="verify_email_field_test" duration-ms="2802" started-at="2019-02-02T10:04:48Z" finished-at="2019-02-02T10:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_email_field_test -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.qatest.testcases.SignInPageTest@26653222]" name="endTest" is-config="true" duration-ms="2440" started-at="2019-02-02T10:04:51Z" finished-at="2019-02-02T10:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.qatest.testcases.SignInPageTest -->
+      <class name="com.qatest.testcases.HomepageTest">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.qatest.testcases.HomepageTest@5e5792a0]" name="startTest" is-config="true" duration-ms="34437" started-at="2019-02-02T10:02:54Z" finished-at="2019-02-02T10:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="contactsUsLinkTest()[pri:0, instance:com.qatest.testcases.HomepageTest@5e5792a0]" name="contactsUsLinkTest" duration-ms="4989" started-at="2019-02-02T10:03:29Z" finished-at="2019-02-02T10:03:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactsUsLinkTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.qatest.testcases.HomepageTest@5e5792a0]" name="endTest" is-config="true" duration-ms="2559" started-at="2019-02-02T10:03:34Z" finished-at="2019-02-02T10:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.qatest.testcases.HomepageTest@5e5792a0]" name="startTest" is-config="true" duration-ms="21645" started-at="2019-02-02T10:03:36Z" finished-at="2019-02-02T10:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="signInLinkTest()[pri:0, instance:com.qatest.testcases.HomepageTest@5e5792a0]" name="signInLinkTest" duration-ms="3748" started-at="2019-02-02T10:03:58Z" finished-at="2019-02-02T10:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInLinkTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.qatest.testcases.HomepageTest@5e5792a0]" name="endTest" is-config="true" duration-ms="2402" started-at="2019-02-02T10:04:02Z" finished-at="2019-02-02T10:04:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.qatest.testcases.HomepageTest@5e5792a0]" name="startTest" is-config="true" duration-ms="20855" started-at="2019-02-02T10:04:04Z" finished-at="2019-02-02T10:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="verifyHomepage()[pri:0, instance:com.qatest.testcases.HomepageTest@5e5792a0]" name="verifyHomepage" duration-ms="28" started-at="2019-02-02T10:04:25Z" finished-at="2019-02-02T10:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepage -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.qatest.testcases.HomepageTest@5e5792a0]" name="endTest" is-config="true" duration-ms="2419" started-at="2019-02-02T10:04:25Z" finished-at="2019-02-02T10:04:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.qatest.testcases.HomepageTest -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- Online shopping site Test Automation Test Suite -->
+</testng-results>
